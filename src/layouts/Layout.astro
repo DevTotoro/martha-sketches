@@ -24,9 +24,15 @@ const { title } = Astro.props;
       rel='stylesheet'
     />
 
+    <!-- Font Awesome -->
+    <script
+      src='https://kit.fontawesome.com/28fca754ad.js'
+      crossorigin='anonymous'
+    ></script>
+
     <title>{title}</title>
   </head>
-  <body>
+  <body class='bg-purple-100 text-gray-600'>
     <Header />
     <slot />
   </body>
