@@ -8,4 +8,4 @@ You can find more information about them on their Social Media. [Instagram](http
 
 ### Development
 
-This project was built using [Astro](https://astro.build/) and deployed on [Vercel](https://vercel.com).
+This project was developed using [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/) and deployed on [Vercel](https://vercel.com).
